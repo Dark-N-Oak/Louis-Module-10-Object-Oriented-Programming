@@ -25,13 +25,15 @@ I am shown a 300x200 pixel image that matches the criteria I entered when I open
   * Next open the application in vscode. 
   * Then open a terminal in vscode.
   * In the terminal enter "npm i inquirer@8.2.4".
-  * Once the inquirer is done installing enter "node index.js"
+  * Then enter in npm i jest
+  * Once the inquirer and jest is done installing enter "node index.js"
   * You will be met with the questionnaire.
   * Fill out the questionnaire with all required information.
   * Finally when you are done a shape with text will be generated.
+  * If you have any promblems use "npm test" to find out what failed.
 
 ## Screenshot
 ![Screenshot 2024-06-10 212004](https://github.com/Dark-N-Oak/Louis-Module-10-Object-Oriented-Programming/assets/163933013/4bdb6c0b-250d-48c0-847b-9e4a0ed9b8ee)
 
 ## Video
-
+https://drive.google.com/file/d/1xdZ7WrEuUH75w1Z1Kn9N_dNFsdkB9DEV/view?usp=drive_link 
