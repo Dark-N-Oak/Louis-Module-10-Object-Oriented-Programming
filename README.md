@@ -16,6 +16,7 @@ I am shown a 300x200 pixel image that matches the criteria I entered when I open
   * shapes.js
   * shapes.test.js
 * index.js
+* package.json
 * .gitignore
 * README.md
   
